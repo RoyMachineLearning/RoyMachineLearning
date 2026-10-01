@@ -8,9 +8,9 @@
 </div>
 <br/>
 <p>
- As a seasoned Senior Manager in Advanced Analytics, I leverage insights to drive impactful business decisions through the implementation of cutting-edge cutting-edge NLP and Machine Learning solutions. With a proven track record, I specialize in delivering actionable insights within the dynamic realms of Banking and Financial Services.
+A seasoned analytics leader with over 14 years of experience in Banking and Financial Services. I lead initiatives that leverage ML and NLP solutions to drive real business impact. I work best at the intersection of data science and business strategy — turning complex problems into clear, actionable direction for senior stakeholders.
 
-In addition to my corporate role, I hold positions as an Adjunct Professor of Artificial Intelligence at esteemed educational institutions. At the School of Engineering, Technology and Applied Science, Centennial College (Contract, Part-Time), and Cestar College of Business, Health & Technology, Ontario (Contract, Part-Time), I am dedicated to imparting knowledge and nurturing the next generation of AI and ML professionals.
+In addition to my corporate role, I hold position as a Professor of Artificial Intelligence at Centennial College. I am dedicated to imparting knowledge and nurturing the next generation of AI and ML professionals. I am dedicated to imparting knowledge and nurturing the next generation of AI and ML professionals.
 </p>
 <br/>
 <div align="left">
