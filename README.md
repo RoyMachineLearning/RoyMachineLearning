@@ -30,11 +30,7 @@ In addition to my corporate role, I hold position as a Professor of Artificial I
 
 <br/>
 <h3 align="center">Highlights</h3>
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=roymachinelearning&theme=swift&row=2&column=3"/></div>
- <div align="center">
-<br/>
 <img src="https://komarev.com/ghpvc/?username=roymachinelearning&label=Profile%20views&color=0e75b6&style=flat"/>
 </div>
 
